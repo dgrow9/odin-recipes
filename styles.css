@@ -1,5 +1,6 @@
 html {
     background-color: #FFFAFF;
+    margin-bottom: 30px;
 }
 
 body {
@@ -7,7 +8,7 @@ body {
     text-align: center;
 }
 
-ul {
+ul, ol, .list {
     text-align: left;
     list-style-position: inside;
 }
@@ -17,6 +18,23 @@ h1 {
     font-weight: 800;
     font-size: 45px;
     color: black;
+}
+
+h3 {
+    margin-top: 50px;
+    font-size: 20px;
+    color: #4D1D4D;
+    font-weight: 500;
+}
+
+p, li {
+    font-size: 15px;
+    color: #803080;
+    font-weight: 300;
+}
+
+img {
+    border-radius: 5px;
 }
 
 a:link {
