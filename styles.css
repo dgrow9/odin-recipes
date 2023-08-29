@@ -1,0 +1,36 @@
+html {
+    background-color: #FFFAFF;
+}
+
+body {
+    font-family: Helvetica, Gills Sans, sans-serif;
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+    list-style-position: inside;
+}
+
+h1 {
+    margin-top: 30px;
+    font-weight: 800;
+    font-size: 45px;
+    color: black;
+}
+
+a:link {
+    color: #B368B3;
+}
+
+a:visited {
+    color: #803080;
+}
+
+a:hover {
+    color: #B368B3;
+}
+
+a:active {
+ color: #803080;
+}
